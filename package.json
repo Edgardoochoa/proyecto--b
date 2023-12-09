@@ -1,6 +1,7 @@
 {
   "name": "proyecto-fullstack-backend",
   "version": "1.0.0",
+  "proxy":"https://frail-fox-shorts.cyclic.app",
   "description": "",
   "main": "server.js",
   "scripts": {
