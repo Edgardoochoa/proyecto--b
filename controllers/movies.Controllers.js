@@ -96,7 +96,7 @@ const deleteMovies = asyncHandler( async (req, res) => {
 
 module.exports = {
   getMovies,
-  getAllMovie,
+  getAllMovieId,
   postMovies,
   putMovies,
   deleteMovies
